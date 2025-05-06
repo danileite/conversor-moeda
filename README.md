@@ -18,7 +18,7 @@ O objetivo deste projeto é criar uma aplicação de console que permita ao usu�
 
 ## Tecnologias utilizadas
 
-- **Java 17** (ou a versão que você estiver usando)
-- **IntelliJ IDEA** (IDE recomendada)
-- **API Extended Rate** (para obter as cotações)
-- **GSON** (para desserializar o JSON da resposta da API)
+- **Java 17**
+- **IntelliJ IDEA**
+- **API Extended Rate**
+- **GSON**
